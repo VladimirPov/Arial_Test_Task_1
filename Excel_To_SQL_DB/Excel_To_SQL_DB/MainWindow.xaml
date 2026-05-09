@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Скважены" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Stretch" Height="200" Margin="10,5,10,5" VerticalAlignment="Top" RenderTransformOrigin="0.5,0">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Stretch" Height="160" Margin="10,5,10,5" VerticalAlignment="Top" RenderTransformOrigin="0.5,0">
             <Grid VerticalAlignment="Top" Margin="30,10,30,0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="600" />
@@ -19,11 +19,32 @@
                     <RowDefinition Height="70"/>
                     <RowDefinition Height="25"/>
                 </Grid.RowDefinitions>
-                <TextBlock Grid.Column="0" Grid.Row="0" x:Name="textBlock" TextWrapping="Wrap" Text="" />
-                <Button Grid.Column="2" Grid.Row="0" x:Name="button" Content="Выбрать файл" />
-                <Button Grid.Column="2" Grid.Row="2" x:Name="button2" Content="Импортировать"/>
+                <TextBox Grid.Column="0" Grid.Row="0" x:Name="textBlock" TextWrapping="Wrap" Text=""/>
+                <Button Grid.Column="2" Grid.Row="0" x:Name="btnSelectFile" Content="Выбрать файл" />
+                <Button Grid.Column="2" Grid.Row="2" x:Name="btnDoImport" Content="Импортировать"/>
             </Grid>
         </Border>
-        <Border BorderBrush="Black" BorderThickness="1" Margin="10,224,10,10" RenderTransformOrigin="0.5,0"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="10,180,10,10" RenderTransformOrigin="0.5,0">
+            <Grid VerticalAlignment="Top" Margin="30,10,30,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="610" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="10"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Grid.Column="1" Grid.Row="0" x:Name="btnViewDB" Content="Просмотр" />
+                <DataGrid Grid.ColumnSpan="2" Grid.Row="2">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Имя скважены" Binding="{Binding Path=Title}" Width="*" />
+                        <DataGridTextColumn Header="ОТ" Binding="{Binding Path=Title}" Width="80" />
+                        <DataGridTextColumn Header="ДО" Binding="{Binding Path=Title}" Width="80" />
+                        <DataGridTextColumn Header="Au" Binding="{Binding Path=Title}" Width="80" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Border>
     </Grid>
 </Window>
