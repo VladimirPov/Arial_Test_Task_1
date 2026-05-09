@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\mainwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\mainwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\mainwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\services\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\services\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\models\\assay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\models\\assay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\models\\holes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\models\\holes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +34,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\MainWindows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WellDataImport\\MainWindows\\MainWindow.xaml",
-              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\MainWindows\\MainWindow.xaml",
-              "RelativeToolTip": "WellDataImport\\MainWindows\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T11:59:55.119Z",
+              "DocumentIndex": 2,
+              "Title": "Assay.cs",
+              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Models\\Assay.cs",
+              "RelativeDocumentMoniker": "WellDataImport\\Models\\Assay.cs",
+              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Models\\Assay.cs",
+              "RelativeToolTip": "WellDataImport\\Models\\Assay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:20:12.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\App.xaml",
-              "RelativeDocumentMoniker": "WellDataImport\\App.xaml",
-              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\App.xaml",
-              "RelativeToolTip": "WellDataImport\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-09T11:59:20.839Z",
+              "DocumentIndex": 3,
+              "Title": "Holes.cs",
+              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Models\\Holes.cs",
+              "RelativeDocumentMoniker": "WellDataImport\\Models\\Holes.cs",
+              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Models\\Holes.cs",
+              "RelativeToolTip": "WellDataImport\\Models\\Holes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:20:09.677Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +66,35 @@
               "RelativeDocumentMoniker": "WellDataImport\\MainWindows\\MainWindow.xaml.cs",
               "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\MainWindows\\MainWindow.xaml.cs",
               "RelativeToolTip": "WellDataImport\\MainWindows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAArwB8AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwGUAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T11:57:28.936Z",
+              "WhenOpened": "2026-05-09T15:16:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelImportService.cs",
+              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Services\\ExcelImportService.cs",
+              "RelativeDocumentMoniker": "WellDataImport\\Services\\ExcelImportService.cs",
+              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Services\\ExcelImportService.cs",
+              "RelativeToolTip": "WellDataImport\\Services\\ExcelImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:11:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "WellDataImport\\Services\\DatabaseService.cs",
+              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "WellDataImport\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:10:38.65Z",
               "EditorCaption": ""
             }
           ]
