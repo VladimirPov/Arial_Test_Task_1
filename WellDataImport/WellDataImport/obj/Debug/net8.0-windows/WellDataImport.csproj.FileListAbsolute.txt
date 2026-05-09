@@ -40,3 +40,6 @@ F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\bin\
 F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\obj\Debug\net8.0-windows\WellDataImport.csproj.AssemblyReference.cache
 F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\obj\Debug\net8.0-windows\WellData.A5A32848.Up2Date
+F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\bin\Debug\net8.0-windows\FluentAssertions.dll
+F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\bin\Debug\net8.0-windows\xunit.abstractions.dll
+F:\Projects\TestTask_Aral_1\Arial_Test_Task_1\WellDataImport\WellDataImport\bin\Debug\net8.0-windows\xunit.core.dll

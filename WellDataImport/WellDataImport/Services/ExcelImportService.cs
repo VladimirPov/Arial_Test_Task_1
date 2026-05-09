@@ -106,9 +106,9 @@ namespace WellDataImport.Services
                 return 0;
 
             // Замена точки на запятую для корректного парсинга
-            value = value.Replace('.', ',');
+            string newValue = value.Replace('.', ',');
 
-            if (double.TryParse(value, out double result)) 
+            if (double.TryParse(newValue, out double result)) 
             {
                 return result;
             }

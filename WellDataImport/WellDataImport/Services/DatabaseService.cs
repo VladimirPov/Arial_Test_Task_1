@@ -1,7 +1,6 @@
 ﻿using System.Data;
 using System.Data.SQLite;
 using System.IO;
-using System.Windows;
 using WellDataImport.Models;
 
 namespace WellDataImport.Services
@@ -140,6 +139,8 @@ namespace WellDataImport.Services
                     foreach (var assay in assays)
                     {
                         var holeId = GetHoleId(assay.Name, connection);
+                        if (holeId < 0)
+                            return 0;
 
                         // Проверяем, существует ли уже такая запись
                         string checkQuery = "SELECT COUNT(*) FROM assay WHERE hole_id = @holeId AND _from = @from AND _to = @to";

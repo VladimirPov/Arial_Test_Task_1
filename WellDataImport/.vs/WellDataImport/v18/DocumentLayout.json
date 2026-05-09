@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|f:\\projects\\testtask_aral_1\\arial_test_task_1\\welldataimport\\welldataimport\\welldataimport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12F1D889-6F95-4E9A-9F06-BEF7B5B50E9B}|WellDataImport\\WellDataImport.csproj|solutionrelative:welldataimport\\welldataimport.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WellDataImport",
+              "DocumentMoniker": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\WellDataImport.csproj",
+              "RelativeDocumentMoniker": "WellDataImport\\WellDataImport.csproj",
+              "ToolTip": "F:\\Projects\\TestTask_Aral_1\\Arial_Test_Task_1\\WellDataImport\\WellDataImport\\WellDataImport.csproj",
+              "RelativeToolTip": "WellDataImport\\WellDataImport.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T16:34:24.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
